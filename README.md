@@ -1,7 +1,11 @@
 # 一键打卡 (SileMe Check-in App)
 
 一款简洁的iOS签到应用，帮助用户通过每日签到保持活跃状态。当用户连续2天未签到时，系统将通知其紧急联系人。
-
+<p float="left">
+  <img src="img.png" width="30%" />
+  <img src="img_1.png" width="29.6%" />
+  <img src="img_2.png" width="30.2%" />
+</p>
 ## 项目结构
 
 ```
